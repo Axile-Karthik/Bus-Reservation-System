@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BusReservationApplication<bus_reservation>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.safar.BusReservationApplication",
+            "projectName": "bus_reservation",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
